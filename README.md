@@ -78,7 +78,7 @@ project-root/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Abhishek-DS-ML-Gupta/DjangoFrontend.git
 cd your-repo-name
 ```
 ### 2️⃣ Create Virtual Environment
